@@ -1,0 +1,1 @@
+[https://github.com/Polkadot-Blockchain-Academy/pba-content/blob/main/syllabus/1-Cryptography/materials/Exotic_Primitives_VRF_Activity.md](https://github.com/Polkadot-Blockchain-Academy/pba-content/blob/main/syllabus/1-Cryptography/materials/Exotic_Primitives_VRF_Activity.md)
